@@ -1,10 +1,10 @@
 # BTC_DCA
-EN:
+## EN:
 
 This research analyzes which day of the week is the best to do DCA strategy on Bitcoin.
 
 The principe:
-The algorithm compares opening prices (0:00 GMT) of each day in the week in last 2000 days (roughly 5.5 years)
+The algorithm compares opening prices (0:00 GMT) of each day in the week in last 2000 days (roughly 5.5 years).
 The output tells how many times was the bitcoin price of each day of the weak the lowest in the whole weak.
 
 This algorithm uses cryptocompare.com API
@@ -24,13 +24,13 @@ Sunday: 34;
 
 -> Monday is the best day of the weak for DCA strategy
 
-CZ:
+## CZ:
 
 
 Tento výzkum zkoumá, jaký den v týdnu je nejlepší na DCA strategii na Bitcoinu.
 
 Princip:
-Algoritmus porovnává otevírací ceny v 00:00 GMT každého dne v týdnu za posledních 2000 dní (skoro 5.5 let)
+Algoritmus porovnává otevírací ceny v 00:00 GMT každého dne v týdnu za posledních 2000 dní (skoro 5.5 let).
 Outputem je počet týdnů, kdy měl bitcoin daný den nejnižší cenu v celém týdnu.
 
 Výsledky v úterý 24. listopadu 2020:
