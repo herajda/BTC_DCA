@@ -22,13 +22,13 @@ while m <= 2000:
     m +=1
 
 x = 0
+mo = 0
 tu = 0
 we = 0
 th = 0
 fr = 0
 sa = 0
 su = 0
-mo = 0
 disposable = []
 
 while x <= 2000:
@@ -82,15 +82,8 @@ while x <= 2000:
             sunday += 1
 
         x += 1
-
         disposable = []
-        tu = 0
-        we = 0
-        th = 0
-        fr = 0
-        sa = 0
-        su = 0
-        po = 0
+
 
 print("Monday: " + str(monday))
 print("Tuesday: " + str(tuesday))
