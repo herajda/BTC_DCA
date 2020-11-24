@@ -23,7 +23,9 @@ Saturday: 29;
 Sunday: 34;
 
 -> Monday is the best day of the weak for DCA strategy
+
 ![graph](https://raw.githubusercontent.com/Herajda/BTC_DCA/main/graph.png)
+
 ## CZ:
 
 
