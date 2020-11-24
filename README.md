@@ -15,11 +15,17 @@ This algorithm uses cryptocompare.com API
 Results on Tue Nov 24 2020:
 
 Monday: 92
+
 Tuesday: 48
+
 Wednesday: 25
+
 Thursday: 24
+
 Friday: 34
+
 Saturday: 29
+
 Sunday: 34
 
 -> Monday is the best day of the weak
