@@ -1,3 +1,6 @@
+//Herajda
+
+
 import json,urllib.request,time
 
 data = json.loads(urllib.request.urlopen("https://min-api.cryptocompare.com/data/v2/histoday?fsym=BTC&tsym=USD&limit=2000&api_key={c634ba3a5dad68a98f2935902b0f74eed3bdbf10bb87f7c44b3a2636ecb36afa}").read())
